@@ -1,0 +1,41 @@
+<div className="Desktop1" style={{width: 1920, height: 1024, position: 'relative', background: 'white'}}>
+  <div className="Rectangle1482488" style={{width: 1981, height: 1069, left: -34, top: -20, position: 'absolute', background: '#F3F3F3'}} />
+  <div className="Group8460" style={{width: 1227, height: 128, left: 387.28, top: 595, position: 'absolute'}}>
+    <img className="Union" style={{width: 1227, height: 128, left: 1227, top: 128, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', border: '1px #D9D9D9 solid'}} src="https://via.placeholder.com/1227x128" />
+    <div className="NomadMichelin" style={{left: 41.72, top: 27, position: 'absolute', color: '#25534B', fontSize: 64, fontFamily: '777', fontWeight: '400', wordWrap: 'break-word'}}>NOMAD MICHELIN</div>
+    <div className="Vector12" style={{width: 50, height: 25, left: 1148.72, top: 89, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0'}}>
+      <div className="Vector10" style={{width: 50, height: 25, left: 0, top: 0, position: 'absolute', border: '5px #25534B solid'}}></div>
+    </div>
+  </div>
+  <div className="Group8461" style={{width: 1227, height: 128, left: 387.28, top: 741, position: 'absolute'}}>
+    <img className="Union" style={{width: 1227, height: 128, left: 1227, top: 128, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', border: '1px #D9D9D9 solid'}} src="https://via.placeholder.com/1227x128" />
+    <div className="EditorialDesign" style={{left: 41.72, top: 24, position: 'absolute', color: '#25534B', fontSize: 64, fontFamily: '777', fontWeight: '400', wordWrap: 'break-word'}}>EDITORIAL DESIGN</div>
+    <div className="Vector13" style={{width: 50, height: 25, left: 1148.72, top: 89, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0'}}>
+      <div className="Vector10" style={{width: 50, height: 25, left: 0, top: 0, position: 'absolute', border: '5px #25534B solid'}}></div>
+    </div>
+  </div>
+  <div className="Group8459" style={{width: 1227, height: 128, left: 387.28, top: 449, position: 'absolute'}}>
+    <img className="Union" style={{width: 1227, height: 128, left: 1227, top: 128, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', border: '1px #D9D9D9 solid'}} src="https://via.placeholder.com/1227x128" />
+    <div className="Animar" style={{left: 41.72, top: 25, position: 'absolute', color: '#25534B', fontSize: 64, fontFamily: '777', fontWeight: '400', wordWrap: 'break-word'}}>ANIMAR</div>
+    <div className="Vector11" style={{width: 50, height: 25, left: 1148.72, top: 89, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0'}}>
+      <div className="Vector10" style={{width: 50, height: 25, left: 0, top: 0, position: 'absolute', border: '5px #25534B solid'}}></div>
+    </div>
+  </div>
+  <div className="Group8458" style={{width: 1227, height: 128, left: 387.28, top: 303, position: 'absolute'}}>
+    <img className="Union" style={{width: 1227, height: 128, left: 1227, top: 128, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', border: '1px #D9D9D9 solid'}} src="https://via.placeholder.com/1227x128" />
+    <div className="Fop" style={{left: 41.72, top: 28, position: 'absolute', color: '#25534B', fontSize: 64, fontFamily: '777', fontWeight: '400', wordWrap: 'break-word'}}>FOP</div>
+    <div className="Vector10" style={{width: 50, height: 25, left: 1148.72, top: 89, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0'}}>
+      <div className="Vector10" style={{width: 50, height: 25, left: 0, top: 0, position: 'absolute', border: '5px #25534B solid'}}></div>
+    </div>
+  </div>
+  <div className="HelloIAmKyungjunLee" style={{width: 1494, height: 42, left: 213, top: 107, position: 'absolute', textAlign: 'center', color: '#25534B', fontSize: 64, fontFamily: 'Josefin Sans', fontWeight: '400', textTransform: 'uppercase', wordWrap: 'break-word'}}>Hello I am KYUNGJUN LEE </div>
+  <div className="UxDesignerWithSpatialDesignBackground" style={{width: 1494, height: 42, left: 214, top: 157, position: 'absolute', textAlign: 'center', color: '#25534B', fontSize: 36, fontFamily: 'Josefin Sans', fontWeight: '300', textTransform: 'uppercase', wordWrap: 'break-word'}}>UX Designer with Spatial Design Background</div>
+  <div className="Next" style={{width: 102, height: 102, left: 148, top: 532, position: 'absolute', transform: 'rotate(180deg)', transformOrigin: '0 0', opacity: 0.50}}>
+    <div className="Ellipse35" style={{width: 102, height: 102, left: 0, top: 0, position: 'absolute', borderRadius: 9999}} />
+    <div className="Vector10" style={{width: 50, height: 25, left: 40, top: 79, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', border: '5px white solid'}}></div>
+  </div>
+  <div className="Next" style={{width: 102, height: 102, left: 1772, top: 532, position: 'absolute', opacity: 0.50}}>
+    <div className="Ellipse35" style={{width: 102, height: 102, left: 0, top: 0, position: 'absolute', borderRadius: 9999}} />
+    <div className="Vector10" style={{width: 50, height: 25, left: 40, top: 79, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', border: '5px white solid'}}></div>
+  </div>
+</div>
